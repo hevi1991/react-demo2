@@ -1,0 +1,32 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+.filterable-product-table {
+  width: 300px;
+  padding: 5px;
+}
+
+.search-bar {
+  margin-bottom: 10px;
+}
+
+.product-row,
+.product-table-header {
+  display: flex;
+}
+
+.name {
+  width: 30%;
+}
+.price {
+  width: 70%;
+}
+
+.red {
+  color: red;
+}
